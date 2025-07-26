@@ -52,7 +52,7 @@ POST	/submit	Submit form data
 POST	/upload	Upload image/pdf files
 
 🌐 Live Demo
-Live Preview <!-- Replace with your actual deployed link -->
+Live Preview dynamic-form-creator-xcd7.vercel.app/
 
 👩‍💻 Author
 Khushi Gupta
