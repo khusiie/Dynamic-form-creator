@@ -14,22 +14,65 @@ A dynamic form editor built with **React (Vite)**, **Tailwind CSS**, **Ant Desig
 
 ## Project Structure
 
+formAssignment/
+├── dynamic-form-creator/ → Frontend (React)
+
+└── dynamic-form-backend/ → Backend (Express)
+
 
 ---
 
 ## Installation & Running
 
-### Clone the repository:
+### Clone the repository and navigate inside:
 
 ```bash
 git clone https://github.com/khusiie/Dynamic-form-creator.git
-cd formAssignment 
+cd formAssignment
+```
+### To start the frontend:
 
+```bash
 cd dynamic-form-creator
 npm install
 npm run dev
+```
+### To start the backend:
 
 
-cd ../dynamic-form-backend
+```bash
+cd dynamic-form-backend
 npm install
-npm run start
+node index.js
+```
+
+## Features
+
+- Dynamic rendering from JSON Schema  
+- File uploads with preview and validation  
+- Nested cards for sub-forms  
+- Form validation and error handling  
+- Submit form and receive JSON output  
+- Live preview of filled form data  
+
+---
+
+## API Endpoints
+
+| Method | Endpoint | Description          |
+|--------|----------|----------------------|
+| POST   | /submit  | Submit form data     |
+| POST   | /upload  | Upload image/pdf files|
+
+---
+
+## 🌐 Live Demo
+
+[Live Preview](https://dynamic-form-creator-xcd7.vercel.app/)
+
+---
+
+## 👩‍💻 Author
+
+Khushi Gupta  
+GitHub: [https://github.com/khusiie](https://github.com/khusiie)
