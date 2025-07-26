@@ -52,8 +52,7 @@ POST	/submit	Submit form data
 POST	/upload	Upload image/pdf files
 
 🌐 Live Demo
-Live Preview dynamic-form-creator-xcd7.vercel.app/
-
+Live Preview https://dynamic-form-creator-xcd7.vercel.app/
 👩‍💻 Author
 Khushi Gupta
 GitHub: https://github.com/khusiie
