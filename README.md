@@ -19,7 +19,7 @@ formAssignment/
 Clone the repository:
 
 ``bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/khusiie/Dynamic-form-creator.git
 cd formAssignment
 
 To start the frontend:
