@@ -62,7 +62,7 @@
     "name": "profile_pic",
     "type": "file",
     "data": {
-      "url": "http://localhost:5000/upload",
+      "url": "https://dynamic-form-backend-s3ls.onrender.com/Upload",
       "method": "POST",
       "headers": {
         "Authorization": "Bearer sampleToken"
