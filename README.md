@@ -24,3 +24,12 @@ A dynamic form editor built with **React (Vite)**, **Tailwind CSS**, **Ant Desig
 ```bash
 git clone https://github.com/khusiie/Dynamic-form-creator.git
 cd formAssignment 
+
+cd dynamic-form-creator
+npm install
+npm run dev
+
+
+cd ../dynamic-form-backend
+npm install
+npm run start
