@@ -69,9 +69,11 @@ node index.js
 ## Screenshots
 
 Home Page
+
 <img width="1225" height="663" alt="image" src="https://github.com/user-attachments/assets/898f6e2a-95b6-49f7-b87d-1e6bbfa1a1a0" />
 
 Dynamic Form
+
 <img width="1491" height="858" alt="image" src="https://github.com/user-attachments/assets/b275cef4-780b-403b-a41f-444d53fb4754" />
 
 Live Json /Submitted Data
