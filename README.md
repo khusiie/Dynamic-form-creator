@@ -1,4 +1,4 @@
-# Dynamic Form Creator
+<img width="1448" height="814" alt="image" src="https://github.com/user-attachments/assets/a30dbdf2-6c59-4d2a-be62-ed9c16466739" /># Dynamic Form Creator
 
 A dynamic form editor built with **React (Vite)**, **Tailwind CSS**, **Ant Design**, and **Express.js** backend. It renders forms based on JSON schema, supports nested cards, file uploads, and returns submitted data in JSON format.
 
@@ -66,11 +66,26 @@ node index.js
 
 ---
 
+## Screenshots
+
+![Home Page](<img width="1225" height="663" alt="image" src="https://github.com/user-attachments/assets/c5af12d8-729d-45db-b490-dc372b5901f5" />
+)
+
+![Form Editor](<img width="1491" height="858" alt="image" src="https://github.com/user-attachments/assets/f12f29e5-91a9-4027-b362-6d978c4d1af0" />
+)
+
+![LivePreview/SubmittedData](<img width="1448" height="814" alt="image" src="https://github.com/user-attachments/assets/d24703ff-eaf7-4fe9-96bf-373be1228f3c" />
+)
+
+
+
 ## 🌐 Live Demo
 
 [Live Preview](https://dynamic-form-creator-xcd7.vercel.app/)
 
 ---
+
+
 
 ## 👩‍💻 Author
 
